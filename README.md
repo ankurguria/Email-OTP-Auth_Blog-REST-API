@@ -4,7 +4,7 @@
 ### Project setup:
 - clone this repo. "cd" into the repo
 - run "npm install"
-- create a .env file with following content (do not change the variable names; change only the values):
+- create a ```.env``` file with following content (do not change the variable names; change only the values):
   ```
   MONGO_URL = <MongoDB connection URL>
   JWT_SECRET = Ilovenodejs
