@@ -13,3 +13,24 @@
   SENDER_PASSWORD = sender_email_ID_password
   ```
 - run "npm run start"
+
+### Available APIs:
+
+#### Authentication:
+- /getotp
+- /signup/
+- /signup/verifyotp
+- /login
+
+#### Middleware:
+- verifyToken
+
+#### Posts:
+- / (create post)
+- /:post_id/delete
+- /:post_id/comment
+- /:post_id/getComments
+- /:post_id/likeDislike
+
+
+Enjoy!
