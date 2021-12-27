@@ -14,6 +14,9 @@
   ```
 - run "npm run start"
 
+### API documentation & Postman collection
+- https://documenter.getpostman.com/view/13459766/UVREkQJR
+
 ### Available APIs:
 
 #### Authentication:
