@@ -2,8 +2,8 @@
    This is a REST API for a blog with authentication (signup and login) only through OTP verification over email.
 
 ### Project setup:
-- clone this repo. "cd" into the repo
-- run "npm install"
+- clone this repo. ```cd``` into the repo
+- run ```npm install```
 - create a ```.env``` file with following content (do not change the variable names; change only the values):
   ```
   MONGO_URL = <MongoDB connection URL>
@@ -12,7 +12,7 @@
   SENDER = sender_email_ID (e.g. your email ID)
   SENDER_PASSWORD = sender_email_ID_password
   ```
-- run "npm run start"
+- run ```npm run start```
 
 ### API documentation & Postman collection
 - https://documenter.getpostman.com/view/13459766/UVREkQJR
